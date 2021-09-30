@@ -12,7 +12,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fullprofile.com.au
   # baseUrl: /your-repo-name
-  logoUrl: https://uploads-ssl.webflow.com/5b553afd9b226816fd2ca19d/5b5540e9e5d2a80a9999e146_FP%20logo_white-p-500.png
+  logoUrl: https://gdcf.fullprofile.com.au/%7B637601116670000079%7D/WebResources/new_FullProfileLogo
   name: Fullprofile Status Monitor
   introTitle: "Fullprofile Status Monitor provides a quick look at our services and the uptime"
   navbar:
