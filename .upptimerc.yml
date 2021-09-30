@@ -12,15 +12,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fullprofile.com.au
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://uploads-ssl.webflow.com/5b553afd9b226816fd2ca19d/5b5540e9e5d2a80a9999e146_FP%20logo_white-p-500.png
+  name: Fullprofile Status Monitor
+  introTitle: "Fullprofile Status Monitor provides a quick look at our services and the uptime"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Knowledge Base
+      href: https://fullprofile.atlassian.net/wiki/spaces/BRS/overview?homepageId=2303918367
+    
+i18n:
+  footer: Grown by AgriDigital
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
