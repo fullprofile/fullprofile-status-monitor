@@ -19,7 +19,7 @@ status-website:
     - title: Status
       href: /
     - title: Knowledge Base
-      href: https://fullprofile.atlassian.net/wiki/spaces/BRS/overview?homepageId=2303918367
+      href: http://agdl.link/broker-support
     
 i18n:
   footer: Grown by AgriDigital
