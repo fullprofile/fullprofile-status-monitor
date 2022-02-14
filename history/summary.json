@@ -4,17 +4,19 @@
     "url": "https://xero-api.fullprofile.net/api/health",
     "icon": "https://favicons.githubusercontent.com/xero-api.fullprofile.net",
     "slug": "broker-xero-webhook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 881,
-    "timeDay": 949,
-    "timeWeek": 896,
-    "timeMonth": 893,
+    "timeDay": 934,
+    "timeWeek": 899,
+    "timeMonth": 894,
     "timeYear": 881,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   }
 ]
