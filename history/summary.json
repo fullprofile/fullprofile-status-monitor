@@ -1,20 +1,20 @@
 [
   {
-    "name": "Broker Xero Webhook",
+    "name": "Broker Xero API",
     "url": "https://xero-api.fullprofile.net/api/health",
     "icon": "https://favicons.githubusercontent.com/xero-api.fullprofile.net",
-    "slug": "broker-xero-webhook",
+    "slug": "broker-xero-api",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 912,
-    "timeWeek": 881,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "time": 902,
+    "timeDay": 902,
+    "timeWeek": 902,
+    "timeMonth": 902,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   }
 ]
