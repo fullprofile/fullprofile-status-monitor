@@ -5,6 +5,8 @@ repo: fullprofile-status-monitor # The name of this repository
 sites:
   - name: Broker Xero API
     url: https://xero-api.fullprofile.net/api/health
+  - name: Broker
+    url: http://design.waypath.io/
 
 
 status-website:
