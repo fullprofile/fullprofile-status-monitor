@@ -3,8 +3,10 @@ owner: fullprofile # Your GitHub organization or username, where this repository
 repo: fullprofile-status-monitor # The name of this repository
 
 sites:
-  - name: Fullprofile Site
+  - name: Fullprofile.com
     url: $SECRET_SITE_1
+  - name: Fullprofile.net
+    url: $SECRET_SITE_2
   - name: Broker Xero API
     url: https://xero-api.fullprofile.net/api/health
 
