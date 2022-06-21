@@ -1,5 +1,23 @@
 [
   {
+    "name": "Fullprofile Site",
+    "url": "$SECRET_SITE_1",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "fullprofile-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2013,
+    "timeDay": 2013,
+    "timeWeek": 2013,
+    "timeMonth": 2013,
+    "timeYear": 2013,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Broker Xero API",
     "url": "https://xero-api.fullprofile.net/api/health",
     "icon": "https://favicons.githubusercontent.com/xero-api.fullprofile.net",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 825,
-    "timeDay": 673,
-    "timeWeek": 769,
-    "timeMonth": 793,
-    "timeYear": 825,
+    "time": 826,
+    "timeDay": 765,
+    "timeWeek": 781,
+    "timeMonth": 796,
+    "timeYear": 826,
     "dailyMinutesDown": {}
   }
 ]
