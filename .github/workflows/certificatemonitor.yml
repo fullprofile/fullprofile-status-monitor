@@ -11,7 +11,7 @@ jobs:
       - name: Monitor
         uses: bluenovaio/action-tls-monitor@main
         with: 
-          domain: fullprofile.io
+          domain: fullprofile.com.au
           expiration_days: 30
           approved_protocols: TLSv1.2,TLSv1.3
           alert_method: slack
