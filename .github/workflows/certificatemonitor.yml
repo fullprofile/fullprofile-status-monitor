@@ -14,7 +14,6 @@ jobs:
           - api.agridigital.io
           - ous.agridigital.io
           - agri.digital
-          - api-clone.agridigital.io
           - status.agridigital.io
           - blog.agridigital.io
           - fullprofile.com.au
@@ -25,7 +24,6 @@ jobs:
           - xero-api.fullprofile.net
           - crm.crm16.fullprofile.com.au
           - status.fullprofile.com.au
-          - adfs.fullprofile.com.au
           - crm.fullprofile.com.au  
           - ext.fullprofile.com.au
           - agdl.link
