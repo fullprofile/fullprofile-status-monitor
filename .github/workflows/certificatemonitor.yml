@@ -8,10 +8,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Monitor
-        uses: bluenovaio/action-tls-monitor@main
+        uses: actions/checkout@v2.3.3
         with: 
           domain: fullprofile.com.au
           expiration_days: 60
           approved_protocols: TLSv1.2,TLSv1.3
           alert_method: slack
           alert_token: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
+
