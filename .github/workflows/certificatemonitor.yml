@@ -10,6 +10,14 @@ jobs:
       matrix:
         domain:
           - www.agridigital.io
+          - app.agridigital.io
+          - api.agridigital.io
+          - ous.agridigital.io
+          - fullprofile.com.au
+          - agridigital.io
+          - app.waypath.io
+          - login.fullprofile.net
+          - crm.crm16.fullprofile.com.au
 
     steps:
       - name: Monitor - ${{ matrix.domain }}
