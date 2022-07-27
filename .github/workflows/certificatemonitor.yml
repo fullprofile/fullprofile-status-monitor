@@ -1,7 +1,7 @@
 name: SSL/TLS Monitor 
 on:
   schedule:
-    - cron: "0/1 12 * * *"
+    - cron: "0/1 * * * *"
 
 jobs:
   monitor:
