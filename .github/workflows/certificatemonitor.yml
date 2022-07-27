@@ -11,7 +11,7 @@ jobs:
         uses: bluenovaio/action-tls-monitor@main
         with: 
           domain: fullprofile.com.au
-          expiration_days: 60
+          expiration_days: 30
           approved_protocols: TLSv1.2,TLSv1.3
           alert_method: slack
           alert_token: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
