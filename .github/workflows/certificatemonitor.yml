@@ -12,14 +12,18 @@ jobs:
           - fullprofile.com.au
           - waypath.io
           - agridigital.io
-          - fullprofile.net
+          - login.fullprofile.net
+          - crm.crm16.fullprofile.com.au
+          - app.agridigital.io
+          - api.agridigital.io
+          - ous.agridigital.io
 
     steps:
       - name: Monitor - ${{ matrix.domain }}
         uses: bluenovaio/action-tls-monitor@main
         with: 
           domain: ${{ matrix.domain }}
-          expiration_days: 60
+          expiration_days: 600
           approved_protocols: TLSv1.2,TLSv1.3
           alert_method: slack
           alert_token: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
