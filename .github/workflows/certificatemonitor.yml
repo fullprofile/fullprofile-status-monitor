@@ -9,15 +9,7 @@ jobs:
     strategy:
       matrix:
         domain:
-          - fullprofile.com.au
-          - app.waypath.io
-          - agridigital.io
-          - login.fullprofile.net
-          - crm.crm16.fullprofile.com.au
-          - app.agridigital.io
-          - api.agridigital.io
-          - ous.agridigital.io
-          - api.waypath.io/ous/swagger/index.html
+          - www.agridigital.io
 
     steps:
       - name: Monitor - ${{ matrix.domain }}
