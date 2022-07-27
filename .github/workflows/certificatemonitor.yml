@@ -10,9 +10,8 @@ jobs:
       matrix:
         domain:
           - fullprofile.com.au
-          - fullprofile.net
-          - crm16.fullprofile.com.au
-          - crm19.fullprofile.com.au
+          - waypath.io
+          - agridigital.io
 
     steps:
       - name: Monitor - ${{ matrix.domain }}
