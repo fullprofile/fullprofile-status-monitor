@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Monitor
-        uses: actions/checkout@v2.3.3
+        uses: bluenovaio/action-tls-monitor@main
         with: 
           domain: fullprofile.com.au
           expiration_days: 60
