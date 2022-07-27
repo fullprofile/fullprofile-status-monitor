@@ -6,12 +6,20 @@ jobs:
   monitor:
     name: SSL/TLS Monitor
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        domain:
+          - fullprofile.com.au
+          - fullprofile.net
+          - crm16.fullprofile.com.au
+          - crm19.fullprofile.com.au
+
     steps:
-      - name: Monitor
+      - name: Monitor - ${{ matrix.domain }}
         uses: bluenovaio/action-tls-monitor@main
         with: 
-          domain: fullprofile.com.au
-          expiration_days: 30
+          domain: ${{ matrix.domain }}
+          expiration_days: 90
           approved_protocols: TLSv1.2,TLSv1.3
           alert_method: slack
           alert_token: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
