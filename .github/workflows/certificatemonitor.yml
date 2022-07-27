@@ -1,3 +1,6 @@
+# This file is generated to monitor SSL/TLS domain certificate at 4 PM daily
+# Send notification to slack channel #ad360_status_monitor when expiry is less than 30 days 
+
 name: SSL/TLS Monitor 
 on:
   schedule:
