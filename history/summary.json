@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2247,
-    "timeDay": 6191,
-    "timeWeek": 2957,
-    "timeMonth": 2324,
-    "timeYear": 2247,
+    "time": 2286,
+    "timeDay": 7713,
+    "timeWeek": 3823,
+    "timeMonth": 2580,
+    "timeYear": 2286,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 9
     }
   },
   {
@@ -44,17 +44,15 @@
     "slug": "broker-xero-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 841,
     "timeDay": 685,
     "timeWeek": 742,
     "timeMonth": 807,
     "timeYear": 841,
-    "dailyMinutesDown": {
-      "2023-01-25": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
