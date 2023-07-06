@@ -6,18 +6,16 @@
     "slug": "broker-platform",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2260,
-    "timeDay": 2312,
-    "timeWeek": 2247,
-    "timeMonth": 2340,
-    "timeYear": 2272,
-    "dailyMinutesDown": {
-      "2023-07-05": 6
-    }
+    "time": 2258,
+    "timeDay": 1747,
+    "timeWeek": 2130,
+    "timeMonth": 2320,
+    "timeYear": 2271,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broker Auth",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 230,
-    "timeWeek": 216,
-    "timeMonth": 205,
+    "timeDay": 169,
+    "timeWeek": 205,
+    "timeMonth": 204,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 863,
-    "timeDay": 887,
-    "timeWeek": 784,
-    "timeMonth": 820,
+    "time": 862,
+    "timeDay": 646,
+    "timeWeek": 757,
+    "timeMonth": 815,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2023-01-25": 19
