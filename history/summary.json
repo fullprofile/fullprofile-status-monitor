@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2273,
+    "time": 2274,
     "timeDay": 2571,
     "timeWeek": 2300,
     "timeMonth": 2357,
-    "timeYear": 2296,
+    "timeYear": 2297,
     "dailyMinutesDown": {
-      "2023-09-28": 1
+      "2023-09-28": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-auth",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 174,
-    "timeWeek": 213,
+    "timeDay": 196,
+    "timeWeek": 214,
     "timeMonth": 217,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-09-28": 0
+      "2023-09-28": 7
     }
   },
   {
