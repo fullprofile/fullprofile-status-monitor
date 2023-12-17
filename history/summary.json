@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-platform",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "92.22%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.98%",
     "time": 2291,
-    "timeDay": 1887,
-    "timeWeek": 2065,
-    "timeMonth": 2343,
+    "timeDay": 2084,
+    "timeWeek": 2092,
+    "timeMonth": 2341,
     "timeYear": 2293,
     "dailyMinutesDown": {
-      "2023-12-17": 0
+      "2023-12-17": 112
     }
   },
   {
