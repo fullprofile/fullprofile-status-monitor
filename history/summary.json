@@ -4,9 +4,9 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2671,
     "timeYear": 2516,
     "dailyMinutesDown": {
+      "2025-01-30": 0,
       "2024-08-20": 19
     }
   },
