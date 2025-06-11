@@ -6,17 +6,16 @@
     "slug": "broker-platform",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2565,
-    "timeDay": 2830,
-    "timeWeek": 2861,
-    "timeMonth": 2905,
+    "time": 2567,
+    "timeDay": 2233,
+    "timeWeek": 2903,
+    "timeMonth": 2906,
     "timeYear": 2653,
     "dailyMinutesDown": {
-      "2025-06-10": 7,
       "2024-08-20": 19
     }
   },
@@ -27,18 +26,16 @@
     "slug": "broker-auth",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 568,
-    "timeWeek": 326,
-    "timeMonth": 269,
+    "timeDay": 494,
+    "timeWeek": 317,
+    "timeMonth": 267,
     "timeYear": 243,
-    "dailyMinutesDown": {
-      "2025-06-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broker Xero API",
@@ -52,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 859,
-    "timeDay": 849,
-    "timeWeek": 977,
-    "timeMonth": 931,
+    "timeDay": 961,
+    "timeWeek": 993,
+    "timeMonth": 930,
     "timeYear": 872,
     "dailyMinutesDown": {}
   }
