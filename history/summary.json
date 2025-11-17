@@ -42,19 +42,19 @@
     "url": "https://xero-api.fullprofile.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/xero-api.fullprofile.net.ico",
     "slug": "broker-xero-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 903,
-    "timeDay": 5848,
-    "timeWeek": 2159,
-    "timeMonth": 1198,
+    "timeDay": 4191,
+    "timeWeek": 2017,
+    "timeMonth": 1188,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2025-11-17": 0
+      "2025-11-17": 8
     }
   }
 ]
