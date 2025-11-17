@@ -1,7 +1,7 @@
 url: https://xero-api.fullprofile.net/api/health
-status: down
-code: 504
-responseTime: 10909
-lastUpdated: 2025-11-17T18:56:57.517Z
+status: up
+code: 200
+responseTime: 878
+lastUpdated: 2025-11-17T19:04:30.006Z
 startTime: 2022-03-16T23:05:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
