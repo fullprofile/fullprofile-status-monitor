@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 2800,
-    "timeDay": 2923,
-    "timeWeek": 3293,
+    "timeDay": 2397,
+    "timeWeek": 3304,
     "timeMonth": 3068,
     "timeYear": 2861,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 448,
-    "timeWeek": 291,
-    "timeMonth": 237,
+    "timeDay": 221,
+    "timeWeek": 290,
+    "timeMonth": 234,
     "timeYear": 241,
     "dailyMinutesDown": {}
   },
@@ -44,17 +44,15 @@
     "slug": "broker-xero-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 903,
-    "timeDay": 4191,
-    "timeWeek": 2017,
-    "timeMonth": 1188,
+    "timeDay": 4273,
+    "timeWeek": 2060,
+    "timeMonth": 1196,
     "timeYear": 906,
-    "dailyMinutesDown": {
-      "2025-11-17": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
