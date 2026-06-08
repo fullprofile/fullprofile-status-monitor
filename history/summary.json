@@ -4,11 +4,11 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.90%",
     "time": 2939,
     "timeDay": 2735,
@@ -17,7 +17,8 @@
     "timeYear": 3031,
     "dailyMinutesDown": {
       "2025-07-28": 422,
-      "2026-06-02": 94
+      "2026-06-02": 94,
+      "2026-06-08": 17
     }
   },
   {
@@ -25,35 +26,39 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 1031,
     "timeWeek": 936,
     "timeMonth": 882,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-08": 10
+    }
   },
   {
     "name": "Broker Xero API",
     "url": "https://xero-api.fullprofile.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/xero-api.fullprofile.net.ico",
     "slug": "broker-xero-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 903,
     "timeDay": 959,
     "timeWeek": 876,
     "timeMonth": 876,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-08": 2
+    }
   }
 ]
