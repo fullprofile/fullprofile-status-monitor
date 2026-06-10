@@ -4,23 +4,23 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.95%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.87%",
-    "time": 2939,
-    "timeDay": 2614,
-    "timeWeek": 2757,
-    "timeMonth": 3027,
-    "timeYear": 3025,
+    "uptimeDay": "91.40%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.86%",
+    "time": 2942,
+    "timeDay": 2762,
+    "timeWeek": 2788,
+    "timeMonth": 3028,
+    "timeYear": 3028,
     "dailyMinutesDown": {
       "2025-07-28": 422,
       "2026-06-02": 94,
       "2026-06-08": 95,
       "2026-06-09": 42,
-      "2026-06-10": 17
+      "2026-06-10": 82
     }
   },
   {
@@ -28,21 +28,21 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-auth",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.97%",
-    "time": 293,
-    "timeDay": 809,
-    "timeWeek": 891,
-    "timeMonth": 881,
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.96%",
+    "time": 294,
+    "timeDay": 804,
+    "timeWeek": 882,
+    "timeMonth": 879,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2026-06-08": 87,
       "2026-06-09": 35,
-      "2026-06-10": 10
+      "2026-06-10": 75
     }
   },
   {
@@ -50,21 +50,21 @@
     "url": "https://xero-api.fullprofile.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/xero-api.fullprofile.net.ico",
     "slug": "broker-xero-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "93.37%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.97%",
     "time": 904,
-    "timeDay": 868,
-    "timeWeek": 821,
-    "timeMonth": 855,
-    "timeYear": 916,
+    "timeDay": 806,
+    "timeWeek": 807,
+    "timeMonth": 850,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2026-06-08": 80,
       "2026-06-09": 27,
-      "2026-06-10": 2
+      "2026-06-10": 68
     }
   }
 ]
