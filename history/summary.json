@@ -4,13 +4,13 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.88%",
-    "time": 2941,
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.87%",
+    "time": 2939,
     "timeDay": 2614,
     "timeWeek": 2757,
     "timeMonth": 3027,
@@ -19,7 +19,8 @@
       "2025-07-28": 422,
       "2026-06-02": 94,
       "2026-06-08": 95,
-      "2026-06-09": 42
+      "2026-06-09": 42,
+      "2026-06-10": 17
     }
   },
   {
@@ -27,12 +28,12 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.97%",
     "time": 293,
     "timeDay": 809,
     "timeWeek": 891,
@@ -40,7 +41,8 @@
     "timeYear": 312,
     "dailyMinutesDown": {
       "2026-06-08": 87,
-      "2026-06-09": 35
+      "2026-06-09": 35,
+      "2026-06-10": 10
     }
   },
   {
@@ -48,20 +50,21 @@
     "url": "https://xero-api.fullprofile.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/xero-api.fullprofile.net.ico",
     "slug": "broker-xero-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.93%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
-    "time": 903,
+    "time": 904,
     "timeDay": 868,
     "timeWeek": 821,
     "timeMonth": 855,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2026-06-08": 80,
-      "2026-06-09": 27
+      "2026-06-09": 27,
+      "2026-06-10": 2
     }
   }
 ]
