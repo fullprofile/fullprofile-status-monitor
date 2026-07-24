@@ -4,13 +4,13 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
-    "time": 2972,
+    "time": 2970,
     "timeDay": 2887,
     "timeWeek": 2469,
     "timeMonth": 2936,
@@ -20,7 +20,8 @@
       "2026-06-02": 94,
       "2026-06-08": 95,
       "2026-06-09": 42,
-      "2026-06-10": 82
+      "2026-06-10": 82,
+      "2026-07-24": 17
     }
   },
   {
@@ -28,11 +29,11 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "broker-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 351,
     "timeDay": 680,
@@ -42,7 +43,8 @@
     "dailyMinutesDown": {
       "2026-06-08": 87,
       "2026-06-09": 35,
-      "2026-06-10": 75
+      "2026-06-10": 75,
+      "2026-07-24": 10
     }
   },
   {
@@ -50,11 +52,11 @@
     "url": "https://xero-api.fullprofile.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/xero-api.fullprofile.net.ico",
     "slug": "broker-xero-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 903,
     "timeDay": 629,
@@ -64,7 +66,8 @@
     "dailyMinutesDown": {
       "2026-06-08": 80,
       "2026-06-09": 27,
-      "2026-06-10": 68
+      "2026-06-10": 68,
+      "2026-07-24": 2
     }
   }
 ]
